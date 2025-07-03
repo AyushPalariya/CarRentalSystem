@@ -7,8 +7,8 @@ This project demonstrates basic concepts of Java like classes, objects, arrays, 
 
 ## 📸 Preview
 
-![Screenshot 1](./01f5796f-6332-4bf0-a1de-6cf5a4ceec46.png)  
-![Screenshot 2](./9aab4269-da33-42dd-97c8-51be89c4e44c.png)
+![image](https://github.com/user-attachments/assets/d1b00a1a-c28f-4047-a47e-d91e312b41d0)
+![image](https://github.com/user-attachments/assets/bca1a951-f43b-4f5e-bbd5-f38ee5414593)
 
 ---
 
